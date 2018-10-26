@@ -3,7 +3,7 @@ package rahhal27;
 import java.io.Serializable;
 
 public class Person implements Serializable {
-	
+	//this is the model class
 	private static final long serialVersionUID = 1L;
 	private  String firstName;
 	private  String lastname;
